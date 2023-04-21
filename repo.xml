@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meta 
+  xmlns="http://exist-db.org/xquery/repo">
+  <description>My amazing ghostduplicate application</description>
+  <author>Lauren Liebe</author>
+  <website>leliebe.github.io</website>
+  <status>alpha</status>
+  <license>MIT</license>
+  <copyright>true</copyright>
+  <type>application</type>
+  <target>ghostd</target>
+  <prepare>pre-install.xq</prepare>
+  <finish>post-install.xq</finish>
+</meta>
